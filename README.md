@@ -7,7 +7,7 @@
   - [osTicket: Configuration](https://github.com/PhilSmithit/config)
   - [osTicket: Ticket Lifecycle (Create Tickets and Resolve)](https://github.com/PhilSmithit/Create-Tickets-and-Resolve)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/PhilSmithit/Configure AD with VMs)
+  - [Configuring Active Directory within Azure VMs](https://github.com/PhilSmithit/Configure-AD-with-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PhilSmithit/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
